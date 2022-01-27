@@ -5,8 +5,3 @@ ust2
 that creates recipes mixing random ingredients.
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
-
-.. autosummary::
-   :toctree: generated
-
-   lumache
