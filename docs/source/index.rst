@@ -20,5 +20,3 @@ Contents
 
    usage
    api
-   üst başlık1
-   üstbaşlık2
