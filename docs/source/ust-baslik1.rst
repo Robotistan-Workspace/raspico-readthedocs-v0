@@ -6,6 +6,7 @@ alt-baslik
 ----------
 loyloy
 
+.. code-block:: console
 
 alt-baslik1
 -----------
