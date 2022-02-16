@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to raspico documentation!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
@@ -25,6 +25,14 @@ Contents
 
    usage
    api
-   ust-baslik1
-   ust-baslik2
+   installing
+   ideoptions
+   reference
+   libraries
+   filesystem
+   
+   boards
+   faq
+   
+   debugging
 
