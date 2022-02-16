@@ -13,9 +13,8 @@ Contents
    reference
    libraries
    filesystem
-   
-   boards
-   faq
+
+   faq/readme
    
    debugging
 
