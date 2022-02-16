@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'raspico'
+copyright = '2022, Robotistan'
+author = 'Robotistan'
 
 release = '0.1'
 version = '0.1.0'
